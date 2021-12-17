@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unaddict</string>
+    <!--    String / URL related to API calls -->
+    <string name="get_products_url">https://fakestoreapi.com/products</string>
+    <string name="error">Error . </string>
+
+
+    <!--    Bot message related Strings-->
+    <string name="choose_order_of_problem">Select Order you are concerned with </string>
+
+    <string name="Orders"> Order related query </string>
+    <string name="general">general query</string>
+    <string name="returns"> return </string>
+    <string name="refund">refund</string>
+    <string name="replace">replace</string>
+    <string name="defective"> defective </string>
+</resources>

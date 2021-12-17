@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1034608607582",
+    "firebase_url": "https://carebot-f79be-default-rtdb.firebaseio.com",
+    "project_id": "carebot-f79be",
+    "storage_bucket": "carebot-f79be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034608607582:android:ce90af8d737d0725bb4fcf",
+        "android_client_info": {
+          "package_name": "com.example.unaddict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034608607582-f5ktev9ec3e9p69seshp4jbb6kvf68dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJml2a_NcA38SJJjZHxWWecG8RzN0c-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034608607582-f5ktev9ec3e9p69seshp4jbb6kvf68dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -3,7 +3,7 @@ This android application works as an after sales chatbot for any online platform
 
 # Snapshots of application
 
-<img src="![image](https://user-images.githubusercontent.com/71931532/146546638-2befb38c-a6f0-4b7d-b79b-f1e9300e2fff.png)" alt="alt text" width="50px" height="50px">
+<img src="![image](https://user-images.githubusercontent.com/71931532/146546638-2befb38c-a6f0-4b7d-b79b-f1e9300e2fff.png)" alt="alt text" width="50" height="50">
 
 ![image](https://user-images.githubusercontent.com/71931532/146546663-d61a9fe2-cc3a-4e33-a6d7-ef4dc509c89e.png)
 ![WhatsApp Image 2021-12-17 at 18 17 46](https://user-images.githubusercontent.com/71931532/146547251-ca17f321-edfe-4d07-a29b-2504ac8f5b26.jpeg)
